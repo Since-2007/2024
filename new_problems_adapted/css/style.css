@@ -1,0 +1,31 @@
+.list-main{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+	background-color: #ffffff;
+	padding-bottom: 15px;
+	margin-bottom:30px;
+	border-radius: 10px;
+	padding-top: 15px;
+}
+.list-main-en{
+	font-family: "Times New Roman",Georgia,Serif;
+    font-size: 18px;
+    line-height: 1.42857143;
+    color: #333;
+	background-color: #ffffff;
+	padding-bottom: 15px;
+	margin-bottom:30px;
+	border-radius: 10px;
+	padding-top: 15px;
+}
+.btn-box{
+	border-top:1px solid #dddddd;
+	padding-top:15px;
+	margin-top:15px;
+}
+body{
+	background-color: #FCFBF9;
+	padding-top:30px;
+}
